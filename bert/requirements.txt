@@ -1,5 +1,5 @@
 python==3.6.9   
 pytorch==1.4.0
 CUDA==10.1.243
-transformers==2.8.1
+transformers==4.30.0
 keras==2.3.1
